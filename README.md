@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Infinite-Nested-Comments
-Building inifinite nested comments using react js framework and node package manager
-=======
-# infinite-nested-comments
-Build an Infinite Nested Comments System in React JS | System Design + Code
->>>>>>> 6b80070 (Initial commit)
+Build an Infinite Nested Comments System in React JS
+
+This project demonstrates how to build an infinite nested comments system using the React.js framework.
+
+![Comment System Demo](demo.png)
